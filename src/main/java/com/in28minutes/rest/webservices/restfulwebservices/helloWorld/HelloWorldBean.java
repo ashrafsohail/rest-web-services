@@ -14,7 +14,7 @@ public class HelloWorldBean {
 	}
 	@Override
 	public String toString() {
-		return "HelloWorldBean [message=" + message + "]";
+		return "HelloWorldBeanfor [message=" + message + "]";
 	}
 	
 
